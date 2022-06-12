@@ -35,8 +35,8 @@ The program then takes those random values and graphs the points with colors mat
 
 ![Graph of The Approximation](/Figure_2.png)
 
-
-Here is another example with a smaller number of iterations
+------
+Here is another example with a smaller number of iterations. As you can see the dots are far more sparse and the approximation isn't as accurate. 
 
 
 ![Another Graph of The Approximation](/Figure_1.png)
